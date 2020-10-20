@@ -1586,7 +1586,7 @@ private:
  * |-----|---------------|
  * | MOSI| TX(0)         |
  * | MISO| RX(1)         |
- * | SCK | XCK(4)        |
+ * | SCK | XCK(4)        |hhh
  * | CE  | User Specified|
  * | CSN | User Specified|
  *
